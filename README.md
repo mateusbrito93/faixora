@@ -72,7 +72,7 @@ O projeto já possui `Dockerfile` e `docker-compose.yml` configurados com todas 
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/faixora.git
+git clone https://github.com/mateusbrito93/faixora.git
 cd faixora
 ```
 
